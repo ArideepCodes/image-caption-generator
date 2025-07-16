@@ -1,5 +1,5 @@
 streamlit==1.27.2
-tensorflow==2.11.0
+tf-nightly==2.15.0.dev20231004
 numpy==1.23.5
 pillow==9.5.0
 nltk==3.8.1
