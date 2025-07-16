@@ -7,15 +7,7 @@
 
 ---
 
-## 📸 Live Demo
 
-👉 [arideep-image-caption-generator.streamlit.app](https://arideep-image-caption-generator.streamlit.app)
-
-Upload an image and get an AI-generated caption using a deep learning model trained on the Flickr8k dataset.
-
-![Demo](resource/demo.gif)
-
----
 
 ## 📌 Overview
 
